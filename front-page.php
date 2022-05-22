@@ -3,7 +3,7 @@ get_header();
 ?>
 
 <div class="container">
-    <h1>Blog</h1>
+    <h1>Blog Github Test</h1>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Non minus, doloribus distinctio modi atque debitis possimus consequuntur ratione ea nesciunt veniam sint in labore sapiente doloremque rerum corrupti nobis iusto.
     Est et perspiciatis dolorem eveniet officia, error cum voluptatibus placeat reprehenderit distinctio vel sequi, voluptates odio adipisci hic itaque cumque numquam nesciunt molestiae neque at nisi. Minus aperiam natus doloremque!
     Molestiae rerum vero explicabo velit assumenda libero pariatur iste non ad, minus quos! Sunt quod earum sint accusamus, animi, reprehenderit iure ex possimus non reiciendis temporibus atque repellat cum quibusdam?

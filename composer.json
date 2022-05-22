@@ -1,0 +1,11 @@
+{
+    "name": "kacpercwiklinski/wordpress-blog-theme",
+    "description": "My custom WP Theme",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kacper Cwiklinski",
+            "email": "kacper.cwiklinski9@gmail.com"
+        }
+    ]
+}
